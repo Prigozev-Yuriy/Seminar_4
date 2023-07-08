@@ -5,13 +5,13 @@
 // Или массив из 8 элементов вводится с консоли (каждый элемент вводит человек)
 
 // Если массив наполняется рандомом:
-int size = 8;
-int[] array = new int[size];
-for (int i = 0; i < array.Length; i++)
-{
-      array[i] = new Random().Next(10, 1000);
-}
-Console.WriteLine($"Массив: [ {string.Join("; ", array)} ]");
+// int size = 8;
+// int[] array = new int[size];
+// for (int i = 0; i < array.Length; i++)
+// {
+//       array[i] = new Random().Next(10, 1000);
+// }
+// Console.WriteLine($"Массив: [ {string.Join("; ", array)} ]");
 
 
 
