@@ -15,8 +15,8 @@
 // Console.WriteLine($"Число {A} в степини {B} равно: {product}");
 
 // Вариант решения №2:
-Console.Write("Введите число А: ");
-int A = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число B: ");
-int B = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"Число {A} в степини {B} равно: {Math.Pow(A, B)}");
+// Console.Write("Введите число А: ");
+// int A = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите число B: ");
+// int B = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine($"Число {A} в степини {B} равно: {Math.Pow(A, B)}");
